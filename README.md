@@ -20,6 +20,12 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `Code of Conduct`.
 
 ![Border](images/border.png)
+
+## Screenshots
+
+![Border](images/border.png)
+
+![Screenshot1](images/preview1.JPG)![Screenshot2](images/preview2.JPG)
 ## Feedback
 
 If you have any feedback, please reach out to us at devarshishimpi@gmail.com
