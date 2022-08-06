@@ -25,7 +25,7 @@ Please adhere to this project's `Code of Conduct`.
 
 ![Border](images/border.png)
 
-![Screenshot1](images/preview1.JPG)![Screenshot2](images/preview2.JPG)
+![Screenshot1](images/preview1.JPG) | ![Screenshot2](images/preview2.JPG)
 ## Feedback
 
 If you have any feedback, please reach out to us at devarshishimpi@gmail.com
